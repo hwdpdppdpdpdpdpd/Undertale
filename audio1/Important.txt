@@ -1,0 +1,4 @@
+Password 2 HTML = Undertale1
+Rename this folder 2 -> audio
+Drag Songs from 1, 2, 3, 4, into audio
+open html and have fun!
